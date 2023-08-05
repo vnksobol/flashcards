@@ -1,3 +1,12 @@
-import React from 'react';
-import Home from '.pages/Home/Home';
-import Slider from '.pages/Slider/Slider';
+import Header from "../../components/Header/Header";
+import Footer from "../../components/Footer/Footer";
+
+
+export default function Table() {
+
+    return (
+        <>
+
+        </>
+    );
+}

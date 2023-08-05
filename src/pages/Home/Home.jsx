@@ -1,3 +1,14 @@
-import React from 'react';
-import Slider from '.pages/Slider/Slider';
-import Table from '.pages/Table/Table';
+import Header from "../../components/Header/Header";
+import Footer from "../../components/Footer/Footer";
+
+
+export default function Home() {
+
+    return (
+        <>
+            <div className="App">
+                <h2>Привет!</h2>
+            </div>
+        </>
+    );
+}
